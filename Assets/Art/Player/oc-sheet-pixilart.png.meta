@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: a3adf48918ea140458f7296f216cda93
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8094433086114661079
+    second: oc-sheet-pixilart_0
+  - first:
+      213: 3510303354766770821
+    second: oc-sheet-pixilart_1
+  - first:
+      213: -1768803711008730572
+    second: oc-sheet-pixilart_2
+  - first:
+      213: -8326343407845802964
+    second: oc-sheet-pixilart_3
+  - first:
+      213: 8524299227536210004
+    second: oc-sheet-pixilart_4
+  - first:
+      213: -4023227871921678281
+    second: oc-sheet-pixilart_5
+  - first:
+      213: 5007104491649090313
+    second: oc-sheet-pixilart_6
+  - first:
+      213: -534853874261715308
+    second: oc-sheet-pixilart_7
+  - first:
+      213: 6421658792083058197
+    second: oc-sheet-pixilart_8
+  - first:
+      213: 1579235608644225041
+    second: oc-sheet-pixilart_9
+  - first:
+      213: -8191040704756226865
+    second: oc-sheet-pixilart_10
+  - first:
+      213: 8274030959007283751
+    second: oc-sheet-pixilart_11
+  - first:
+      213: -1114792119721710358
+    second: oc-sheet-pixilart_12
+  - first:
+      213: -7957863779798702693
+    second: oc-sheet-pixilart_13
+  - first:
+      213: -3811475927837963896
+    second: oc-sheet-pixilart_14
+  - first:
+      213: 1039720471382964217
+    second: oc-sheet-pixilart_15
+  - first:
+      213: -4777631351573520963
+    second: oc-sheet-pixilart_16
+  - first:
+      213: -8287007848294126871
+    second: oc-sheet-pixilart_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: oc-sheet-pixilart_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 131
+        width: 22
+        height: 39
+      alignment: 9
+      pivot: {x: 0.22267221, y: -0.15584975}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d77fb8efbcaaf80800000000000000
+      internalID: -8094433086114661079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oc-sheet-pixilart_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 93
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5824cb28d4a17b030800000000000000
+      internalID: 3510303354766770821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oc-sheet-pixilart_2
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 131
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4329ee77562f377e0800000000000000
+      internalID: -1768803711008730572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oc-sheet-pixilart_3
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 93
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c7f6119c2e27c80800000000000000
+      internalID: -8326343407845802964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oc-sheet-pixilart_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 131
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458be68dbf46c4670800000000000000
+      internalID: 8524299227536210004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oc-sheet-pixilart_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 93
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73858a3019f9a28c0800000000000000
+      internalID: -4023227871921678281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oc-sheet-pixilart_6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 131
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903c102a10fcc7540800000000000000
+      internalID: 5007104491649090313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oc-sheet-pixilart_7
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 93
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49693e13c31d398f0800000000000000
+      internalID: -534853874261715308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oc-sheet-pixilart_8
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 129
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51eefd2e5a05e1950800000000000000
+      internalID: 6421658792083058197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oc-sheet-pixilart_9
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 93
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11803ed3b629ae510800000000000000
+      internalID: 1579235608644225041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oc-sheet-pixilart_10
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 52
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc46d3480e3935e80800000000000000
+      internalID: -8191040704756226865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oc-sheet-pixilart_11
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 16
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ab63cc15343d270800000000000000
+      internalID: 8274030959007283751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oc-sheet-pixilart_12
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 51
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec259939767780f0800000000000000
+      internalID: -1114792119721710358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oc-sheet-pixilart_13
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 16
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95a62a0e0dff8190800000000000000
+      internalID: -7957863779798702693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oc-sheet-pixilart_14
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 52
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889044376daea1bc0800000000000000
+      internalID: -3811475927837963896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oc-sheet-pixilart_15
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 16
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f7bb729244dd6e00800000000000000
+      internalID: 1039720471382964217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oc-sheet-pixilart_16
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 16
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbdd0b5499172bdb0800000000000000
+      internalID: -4777631351573520963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oc-sheet-pixilart_17
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 52
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eaed87b442aefc80800000000000000
+      internalID: -8287007848294126871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 540f27157cc3ce447bff6bd43e047380
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      oc-sheet-pixilart_0: -8094433086114661079
+      oc-sheet-pixilart_1: 3510303354766770821
+      oc-sheet-pixilart_10: -8191040704756226865
+      oc-sheet-pixilart_11: 8274030959007283751
+      oc-sheet-pixilart_12: -1114792119721710358
+      oc-sheet-pixilart_13: -7957863779798702693
+      oc-sheet-pixilart_14: -3811475927837963896
+      oc-sheet-pixilart_15: 1039720471382964217
+      oc-sheet-pixilart_16: -4777631351573520963
+      oc-sheet-pixilart_17: -8287007848294126871
+      oc-sheet-pixilart_2: -1768803711008730572
+      oc-sheet-pixilart_3: -8326343407845802964
+      oc-sheet-pixilart_4: 8524299227536210004
+      oc-sheet-pixilart_5: -4023227871921678281
+      oc-sheet-pixilart_6: 5007104491649090313
+      oc-sheet-pixilart_7: -534853874261715308
+      oc-sheet-pixilart_8: 6421658792083058197
+      oc-sheet-pixilart_9: 1579235608644225041
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
