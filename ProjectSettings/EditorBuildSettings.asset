@@ -4,6 +4,15 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Cutscene.unity
+    guid: 542de8cfef75d5e4394b47d8c675fa9a
+  - enabled: 1
+    path: Assets/Scenes/The Dream.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/EndGame.unity
+    guid: a99991c855b421242a43a128993e13b8
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0

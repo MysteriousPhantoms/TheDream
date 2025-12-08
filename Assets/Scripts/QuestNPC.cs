@@ -6,8 +6,8 @@ public class QuestNPC : MonoBehaviour, Interactable
     public string npcName;
 
     [Header("Quest Info")]
-    public string questName;      // You can type the quest name
-    public string itemName;       // You can type the quest item name
+    public string questName;      // type the quest name
+    public string itemName;       // type the quest item name
     public QuestItem itemPrefab;  // Prefab to spawn
 
     public Transform[] spawnPoints;
@@ -17,6 +17,9 @@ public class QuestNPC : MonoBehaviour, Interactable
     public Dialog dialogDuringQuest;
     public Dialog dialogAfterQuest;
     public Dialog dialogPostQuest;
+
+    [Header("Audio")]
+    public AudioClip talkSound;   // ← NEW: assign a sound for this NPC
 
     [HideInInspector] public bool isQuestActive = false;
     [HideInInspector] public bool isQuestComplete = false;

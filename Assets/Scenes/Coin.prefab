@@ -145,5 +145,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9cd6e7b0a56809444ab9ae76f2e4879f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  questIndex: -1
   itemName: Coin
+  collectSound: {fileID: 8300000, guid: ec07aa348edf4d04aa7be8e247a196d3, type: 3}
+  volume: 0.5
